@@ -1,0 +1,14 @@
+body { 
+  background-color: #222;
+  color: white;
+}
+.App {
+  text-align: center;
+}
+
+.form-control {
+  background: none;
+  color: white;
+}
+
+
